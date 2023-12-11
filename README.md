@@ -1,20 +1,23 @@
-# BMC-Helix-Angular
 ## BMC Helix code base
 
 ## Hello user
-## You can use this project lib straight ahead by
-## editing projectFolder/pom.xml to input your BMC Helix developer credentials 
-## (
-## a/c => <developerUserName/> in Line 12 of projectFolder/pom.xml
-## p/w => <developerPassword/> in Line 13 of projectFolder/pom.xml
-## your dev server endpoint => <webUrl/> in Line 15
+## To use this lib straight ahead
+## git clone <thisRepo>
+## cd projectFolder
+## sudo vim projectFolder/pom.xml
+## Enter your BMC Helix innovation studio login name to <developerUserName/> in Line 12
+## Enter your BMC Helix innovation studio login password to <developerPassword/> in Line 13
+## Enter your BMC Helix innovation studio dev server endpoint to <webUrl/> in Line 15
+## pwd = projectFolder/
+## mvn clean install -Pexport -Pdeploy
 
-## For upgrading your existing BMC Helix open SDK from 21.X to 22.7.01 without breaking changes
+## For upgrading your existing BMC Helix open sdk from 21.X to 22.7.01 
 ## Please refer to 
 ## https://docs.bmc.com/docs/is221/upgrading-bmc-helix-innovation-studio-sdk-to-22-1-00-1039588344.html
-## OR you can read through the documentations below:
-## Enclosed 'projectFolder/Helix-guide.one' for debugging details
-## Open OneNote.exe => Open => select all file extension => Helix.one
+## Should you find any problems during debugging (done in Nov 2023), please refer to 
+## projectFolder/Helix-guide.one
+## To open projectFolder/Helix-guide.one
+## Open OneNote.exe => Open => select all file extension => Helix-guide.one
 
 ## For development environment setup
 ## Please refer to === Dev dependencies section
