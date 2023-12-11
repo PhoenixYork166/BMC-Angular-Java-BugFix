@@ -1,0 +1,6 @@
+#
+#Wed Dec 06 22:29:48 GMT-08:00 2023
+IgnoreRuleExecution=false
+DuplicateDataActionType=MERGE
+Name=com.example.test210500\:Star Rating
+ImportOrder=12

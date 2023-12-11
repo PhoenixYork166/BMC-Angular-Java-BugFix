@@ -1,0 +1,6 @@
+#
+#Wed Dec 06 22:29:49 GMT-08:00 2023
+IgnoreRuleExecution=false
+DuplicateDataActionType=THROW_ERROR
+Name=AppLocalConfigComponentBase
+ImportOrder=null
