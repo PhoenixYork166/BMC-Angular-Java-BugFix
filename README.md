@@ -22,6 +22,7 @@
 ## For development environment setup
 ## Please refer to === Dev dependencies section
 ## 'Java JDK' page
+## Node.js 20
 ## 'Maven (3.6.3)' page
 ## 'Eclipse IDE' page
 ## 'BMC Helix Platform SDK' page
