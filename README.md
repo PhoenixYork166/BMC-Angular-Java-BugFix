@@ -30,7 +30,8 @@
 ## 'Yarn 1.22.21' page
 ## 'Install Grunt' page
 ## 'Env layout' page
-## 'node-sass@^4.14.0' page ONLY if you're building fresh apps/lib using BMC Helix innovation suite SDK on your own
+## 'node-sass@^4.14.0' is deprecated
+## Use Sass instead
 
 ## For Innovation Studio Login, please refer to 'Studio Login' page 
 ## under ==== Reviving Angular lib section
