@@ -1,3 +1,7 @@
+## Intro:
+## Swapping from React's Functional Programming paradigm to Angular Object Oriented Programming paradigm
+## will be SO FUN!! :D
+
 ## BMC Helix dev code base
 ![BMC Helix](https://i.ytimg.com/vi/rjjiLZgRU5Q/maxresdefault.jpg)
 
