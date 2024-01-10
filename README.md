@@ -16,11 +16,13 @@
 ![developerPassword](https://scontent.fhkg4-1.fna.fbcdn.net/v/t39.30808-6/416082004_10160848900333604_6567304524044656725_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=3635dc&_nc_ohc=odry1V2n3kcAX8UBA_F&_nc_ht=scontent.fhkg4-1.fna&oh=00_AfA4pPrvY3_cy7XvelUZUpBOQNeBSNeG-o_yPy6XqyEIcw&oe=65983F44)
 ## 4. Edit API server url on line 15
 ![development API server](https://scontent.fhkg4-2.fna.fbcdn.net/v/t39.30808-6/416095627_10160848901033604_8327992667750738361_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=3635dc&_nc_ohc=bzqq8ONajswAX-3jLni&_nc_ht=scontent.fhkg4-2.fna&oh=00_AfBYb0cbe_kRZa19CY8k2ejsO8pRTzBze7jfXzI5t3TjFQ&oe=65967446)
-## 5. Enable openssl-legacy-provider in project folder
-## powershell: $env:NODE_OPTIONS="--openssl-legacy-provider"
-## Linux: export node_options= --openssl-legacy-provider
+## 5. Enable openssl-legacy-provider & start deploying with SSL security risks :D
+## powershell: 
+## $env:NODE_OPTIONS="--openssl-legacy-provider"; mvn clean install -Pexport -Pdeploy;
+## Bash: 
+## export node_options= --openssl-legacy-provider && mvn clean install -Pexport -Pdeploy;
 
-## pwd = projectFolder/
+## Or luck it out by:
 ## mvn clean install -Pexport -Pdeploy
 
 ## For upgrading your existing BMC Helix open sdk from 21.X to 22.7.01 
