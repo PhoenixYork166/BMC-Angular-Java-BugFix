@@ -1,10 +1,20 @@
+# BMC Helix Fullstack development guide
+##
+## BMC Helix dev code base
+# Frontend and Midtier dev
+![BMC Helix](https://i.ytimg.com/vi/rjjiLZgRU5Q/maxresdefault.jpg)
+##
+# Backend and microservices dev
+![BMC Helix](https://docs.bmc.com/docs/brid213/files/1046256488/1046256489/21/1697790371858/Architecture+diagram.png)
+##
+## Github repo with Dead-end bugs in microservices:
+## Dead-end because my boss does NOT pay me enough $$ to do this shit
+## https://github.com/phoenixyork166/BMC-Helix-backend-microservices
+##
 ## Intro:
 ## Swapping from React's Functional Programming paradigm to Angular Object Oriented Programming paradigm
 ## will be SO FUN!! :D
-
-## BMC Helix dev code base
-![BMC Helix](https://i.ytimg.com/vi/rjjiLZgRU5Q/maxresdefault.jpg)
-
+##
 ## Hello user
 ## To use this lib straight ahead
 ## git clone <thisRepo>
