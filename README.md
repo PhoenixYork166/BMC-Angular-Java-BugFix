@@ -8,7 +8,7 @@
 ![BMC Helix](https://docs.bmc.com/docs/brid213/files/1046256488/1046256489/21/1697790371858/Architecture+diagram.png)
 ##
 ## Github repo with Dead-end bugs in BMC Helix microservices:
-## !!! Dead-end because my boss does NOT pay me enough $$ to do this shit !!!
+## Dead-end because my boss does NOT pay me enough $$ to do this ;)
 ## https://github.com/phoenixyork166/BMC-Helix-backend-microservices
 ##
 ## Intro:
