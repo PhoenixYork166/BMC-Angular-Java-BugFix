@@ -7,6 +7,9 @@
 # Backend and microservices dev
 ![BMC Helix](https://docs.bmc.com/docs/brid213/files/1046256488/1046256489/21/1697790371858/Architecture+diagram.png)
 ##
+![BMC Helix攞你命3000](https://www.property.hk/writing_manage/article_images/phk_tml/e131c09d04db55a9121f05a0075baf5b.jpg)
+## 你估下係你玩緊BMC Helix, 定係BMC Helix玩尻緊你?
+![BMC Helix攞你命3000](https://media.whatscap.com/918/c71/918c712af2714609072059ea7adcdc9951cabfe6_b.jpg)
 ## Github repo with Dead-end bugs in BMC Helix microservices:
 ## Dead-end because my boss does NOT pay me enough $$ to do this ;)
 ## https://github.com/phoenixyork166/BMC-Helix-backend-microservices
