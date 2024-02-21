@@ -11,6 +11,10 @@
 ![BMC](https://www.liblogo.com/img-logo/bm6781b14d-bmc-software-logo-bmc-.png)
 ##
 ## Intro:
+# A big thank you to IGS Ray Lai for the Maven part ;)
+##
+# Welcome anyone in IGS to continue custom dev using this bug free repo :D (handshake)
+##
 ## Swapping from React's Functional Programming paradigm to Angular Object Oriented Programming paradigm
 ## will be SO FUN!! :D
 ##
