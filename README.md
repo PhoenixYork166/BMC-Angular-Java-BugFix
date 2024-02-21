@@ -4,12 +4,7 @@
 # Frontend and Midtier dev
 ![BMC Helix](https://i.ytimg.com/vi/rjjiLZgRU5Q/maxresdefault.jpg)
 ##
-# Backend and microservices dev
-![BMC Helix](https://docs.bmc.com/docs/brid213/files/1046256488/1046256489/21/1697790371858/Architecture+diagram.png)
-##
 ![BMC Helix攞你命3000](https://www.property.hk/writing_manage/article_images/phk_tml/e131c09d04db55a9121f05a0075baf5b.jpg)
-## Github repo with Dead-end bugs in BMC Helix microservices:
-## https://github.com/phoenixyork166/BMC-Helix-backend-microservices
 ##
 ## Intro:
 ## Swapping from React's Functional Programming paradigm to Angular Object Oriented Programming paradigm
