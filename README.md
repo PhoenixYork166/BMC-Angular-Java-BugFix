@@ -4,7 +4,11 @@
 # Frontend and Midtier dev
 ![BMC Helix](https://i.ytimg.com/vi/rjjiLZgRU5Q/maxresdefault.jpg)
 ##
-![BMC Helix攞你命3000](https://www.property.hk/writing_manage/article_images/phk_tml/e131c09d04db55a9121f05a0075baf5b.jpg)
+## The purposes
+# 1. This is an IGS-BMC handshake Public Relation Repository :D
+![IGS](https://static.wixstatic.com/media/6fc253_5f7ef664103740078c3e040972b70499~mv2.png/v1/fit/w_2500,h_1330,al_c/6fc253_5f7ef664103740078c3e040972b70499~mv2.png)
+##
+![BMC](https://www.liblogo.com/img-logo/bm6781b14d-bmc-software-logo-bmc-.png)
 ##
 ## Intro:
 ## Swapping from React's Functional Programming paradigm to Angular Object Oriented Programming paradigm
