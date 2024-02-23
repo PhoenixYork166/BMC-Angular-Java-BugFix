@@ -10,6 +10,9 @@
 ##
 ![BMC](https://www.liblogo.com/img-logo/bm6781b14d-bmc-software-logo-bmc-.png)
 ##
+# IGS & BMC are always partners ;)
+## https://www.bmc.com/partners/partner-locator/integrated-global-solutions-limited.html
+##
 ## Intro:
 # A big thank you to IGS Ray Lai for the Maven part ;)
 ##
