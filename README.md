@@ -1,4 +1,3 @@
-# 搵工用
 # BMC Helix Fullstack development guide
 ##
 ## BMC Helix dev code base
